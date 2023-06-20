@@ -1,0 +1,7 @@
+# File Worker
+
+
+## Usage
+
+```ts
+```
